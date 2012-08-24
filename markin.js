@@ -38,7 +38,6 @@ function update(ev) {
 			document.execCommand("insertUnorderedList", false, null);
 			ev.preventDefault()
 			break;
-
 		default:
 			fuse = false;
 	}
