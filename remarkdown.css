@@ -73,16 +73,6 @@
 
 /* --- TITLES --- */
 
-/* Titles - common styles */
-.rmd-on h1,
-.rmd-on h2,
-.rmd-on h3,
-.rmd-on h4,
-.rmd-on h5,
-.rmd-on h6 {
-  margin: 1.4em 0;
-}
-
 /* Titles - with `#` prefixes (default for all titles) */
 .rmd-on h1:before {
   content: "# ";
