@@ -63,7 +63,7 @@
 .rmd-on {
   /* Better results with a monospace font, obviously. Feel free to pick
      a Courier-based font stack, or a custom Web Font if you want. */
-  font-family: Monaco, "DejaVu Sans Mono", "Lucida Console", monospace;
+  font-family: Monaco, "DejaVu Sans Mono", "Lucida Console", monospace !important;
   /* To maintain a good vertical rhythm, the value for the text's line-height
      is used throughout the stylesheet for top and bottom margins of elements.
      E.g. if we have a line-height of 1.5 (or 1.5em or 150%), we should have
