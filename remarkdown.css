@@ -60,7 +60,7 @@
 
 /* --- COMMON TEXT STYLES --- */
 
-.rmd-on {
+.rmd-on, .rmd-on * {
   /* Better results with a monospace font, obviously. Feel free to pick
      a Courier-based font stack, or a custom Web Font if you want. */
   font-family: Monaco, "DejaVu Sans Mono", "Lucida Console", monospace !important;
